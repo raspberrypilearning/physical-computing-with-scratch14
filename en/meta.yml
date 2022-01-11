@@ -1,5 +1,5 @@
 ---
-title: "Physical Computing With Scratch 1.4"
+title: Physical Computing With Scratch 1.4
 hero_image: images/banner.png
 description: A guide to getting started with physical computing and Scratch
 original_url: https://raspberrypi.org/learning/physical-computing-with-scratch
@@ -16,9 +16,10 @@ hardware: electronic-components
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: GPIO pins
 - title: Lighting an LED
 - title: Using a switchable pin
@@ -29,4 +30,5 @@ steps:
 - title: Controlling an LED with a button push
 - title: Buzzers
 - title: PIRs
+  completion: internal
 - title: Traffic lights
